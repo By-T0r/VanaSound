@@ -1,0 +1,7 @@
+build/
+*.log
+*.cfg
+*.pdb
+*.lib
+*.exp
+__pycache__/
