@@ -6,9 +6,9 @@ Open the settings panel with `/vsound` or `/vanasound`.
 
 ## Demonstration
 
-[![Watch the VanaSound demonstration](media/preview.jpg)](media/vanasound-demo.mp4)
+https://github.com/user-attachments/assets/97dad92d-e125-48c0-af52-993ed95d8abe
 
-[Watch or download the demonstration video](https://raw.githubusercontent.com/By-T0r/VanaSound/main/media/vanasound-demo.mp4) — includes game audio so you can hear the volume changes.
+Play the video above to see the controls and hear the volume changes.
 
 ## Features
 
